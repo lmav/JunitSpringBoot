@@ -5,3 +5,6 @@ A quick example of spring boot MVC web application integrating Junit 5 testing.
   <li>Spring Boot</li>
   <li>Junit 5</l1>
 </ul>  
+
+<h3>Preview</h3>
+<p>after cloning the project, head to this path Unit-testing\src\test\java\com\example\demo\controller\MainControllerTest.java  to run the tests</p>
