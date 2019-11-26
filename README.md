@@ -9,4 +9,4 @@ A quick example of spring boot MVC web application integrating Junit 5 testing.
 <h2>Preview</h2>
 <p>after cloning the project, head to this path <strong>\src\test\java\com\example\demo\controller\MainControllerTest.java</strong>   to run the tests</p>
 
-<img height="499" width="1024" src="junit.png">
+<img height="399" width="1024" src="junit.png">
